@@ -40,6 +40,9 @@ This project is part of the **ELE 489: Fundamentals of Machine Learning** course
 - The notebook provides accuracy scores for different *k* values.
 - A confusion matrix and classification report are generated to evaluate model performance.
 
+## References
 https://deepnote.com/app/ndungu/Implementing-KNN-Algorithm-on-the-Iris-Dataset-e7c16493-500c4248-be54-9389de603f16 
+
 https://www.kaggle.com/code/prashant111/knn-classifier-tutorial 
-https://www.w3schools.com/python/python_ml_confusion_matrix.asp)
+
+https://www.w3schools.com/python/python_ml_confusion_matrix.asp
